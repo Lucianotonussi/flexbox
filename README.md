@@ -1,0 +1,19 @@
+# flexbox
+Developed with GRID LAYOUT - CSS
+
+
+HTML:
+
+* VIEWPORT
+* HEADER
+* NAV
+* SECTION
+* ASIDE
+* ARTICLE
+* FOOTER
+
+
+CSS:
+
+* HOVER
+* MEDIA (RESPONSIVE WEB DESIGN)
